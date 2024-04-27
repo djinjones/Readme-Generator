@@ -98,10 +98,10 @@ ${data.test}
 ## Questions
 
 ### Usage Instructions
-If you have any questions or need assistance with the project, please feel free to reach out to us through GitHub Discussions. You can start a new discussion thread to ask a question or join an existing discussion. To test our project, clone the repository from [Github](https://github.com/${data.github}/${data.fileName.trim()})
+If you have any questions or need assistance with the project, please feel free to reach out to us through GitHub Discussions. You can start a new discussion thread to ask a question or join an existing discussion. To test our project, clone the repository from [Github](https://github.com/${data.github}/${data.fileName.trim('')})
 
 ### Reporting Issues
-If you encounter any bugs or issues with the project, please report them on our [Github](https://github.com/${data.github}/issues) Issues page. When submitting a bug report, please include detailed steps to reproduce the issue, along with any relevant error messages or screenshots.
+If you encounter any bugs or issues with the project, please report them on our [Github](https://github.com/${data.github}/${data.fileName.trim('')}issues) Issues page. When submitting a bug report, please include detailed steps to reproduce the issue, along with any relevant error messages or screenshots.
 
 ### Feature Requests
 We welcome feature requests and suggestions for improving the project. If you have an idea for a new feature or enhancement, please submit a feature request on our GitHub Issues page. Be sure to provide a clear description of the proposed feature and why you think it would be valuable.
