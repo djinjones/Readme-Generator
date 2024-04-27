@@ -72,14 +72,14 @@ ${renderLicenseSection(data)}
 ${data.description} 
 
 ## Table of Contents
-- [Description](Description) 
-- [Installation](Installation) 
-- [Usage](Usage) 
-- [Tests](Tests) 
-- [Questions](Questions) 
-- [Contact](Contact) 
-- [Contributing](Contributing) 
-- [License](License) 
+- [Description](#description) 
+- [Installation](#installation) 
+- [Usage](#usage) 
+- [Tests](#tests) 
+- [Questions](#questions) 
+- [Contact](#contact) 
+- [Contributing](#contributing) 
+- [License](#license) 
 
 ## Installation
 ${data.installation}

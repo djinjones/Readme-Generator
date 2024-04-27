@@ -38,7 +38,7 @@ Testing is an essential part of maintaining code quality and ensuring that our p
 As of right now we dont have any testing features for this project but we plan to add more features and APIs to allow a wider range of markdown generaton. We also plan to add more commands such as /help.
 
 ## Links
-N/A
+- [Screencastify](https://drive.google.com/file/d/1nw4qouOIxRNxsGwPfyWulbL9Pg3uY6NV/view)
 
 ## API
 N/A
@@ -78,6 +78,8 @@ If you're interested in contributing to the project, please read our Contributin
 - [Github banner generator](https://leviarista.github.io/github-profile-header-generator/)
 - [Github markdown-badges](https://ileriayo.github.io/markdown-badges/)
 - [weatherapi.com](https://www.weatherapi.com/docs/)
+- [Suno AI generated music](https://www.suno.com)
+
 
 ## License
 This project was created under:<br>
